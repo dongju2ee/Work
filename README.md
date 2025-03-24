@@ -28,12 +28,12 @@
 - css를 활용하여 표 안에서 이미지를 가운데 정렬, 각 이미지 간격을 동일하게 설정
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/337645b7-2610-4878-a361-10a911c1603b" width="600" height="350"/>
+<img src="https://github.com/user-attachments/assets/89074af5-c049-4e82-8d6f-c2bd93e2c98b" width="600" height="350"/>
 <br/><br/>
 
 - 기본적으로 채워지는 이미지 높이는 0으로 설정정
 - 토글 이벤트(`on` 클래스가 추가될 때) 발생 시, `height`를 0보다 큰 값으로 설정하여 이미지가 부드럽게 아래에서 위로 나타남
-
+<br/><br/>
 
 <br/><br/>
 <br/><br/>
