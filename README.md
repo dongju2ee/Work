@@ -35,5 +35,18 @@
 - 토글 이벤트 발생 시, `height`를 0보다 큰 값으로 설정하여 이미지가 부드럽게 아래에서 위로 나타남
 <br/><br/>
 
+<img src="https://github.com/user-attachments/assets/b22eeac4-a460-4ec1-aa70-677dc3f8cee0" width="600" height="350"/>
+<br/><br/>
+
+- `div`에 `filter: blur();`, `background-color: white;`를 사용하여 블러 효과를 적용
+- `position: absolute`를 설정하여 `div`를 적절한 위치에 배치
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/6a20a5e2-31e2-4aaa-8833-3bd1a3a377dc" width="600" height="350"/>
+<br/><br/>
+
+<img src="https://github.com/user-attachments/assets/117c6207-b006-45fa-aba8-cb1b7c387a2e" width="600" height="350"/>
+<br/><br/>
+
 <br/><br/>
 <br/><br/>
