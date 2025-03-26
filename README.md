@@ -5,6 +5,13 @@
 - HTML/CSS 85%, JS 15% 활용
 <br/><br/>
 
+## ⚙️ 개발환경
+
+`HTML`, `JavaScript`, `CSS`
+
+개발 도구 - VScode
+<br/><br/>
+
 ## 📄 담당 페이지
 
 <img src="https://github.com/user-attachments/assets/6cd53342-7f9c-4fe7-8e92-286e160f5c84" width="600" height="350"/>
@@ -42,11 +49,17 @@
 - `position: absolute`를 설정하여 `div`를 적절한 위치에 배치
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/6a20a5e2-31e2-4aaa-8833-3bd1a3a377dc" width="600" height="350"/>
+<img src="https://github.com/user-attachments/assets/1b98fc0f-cd86-444e-8ab6-0ec0f7b5e3fa" width="600" height="350"/>
+<br/><br/>
+
+- background: url(../img/.svg) center / contain no-repeat;
 <br/><br/>
 
 <img src="https://github.com/user-attachments/assets/117c6207-b006-45fa-aba8-cb1b7c387a2e" width="600" height="350"/>
 <br/><br/>
 
+<img src="https://github.com/user-attachments/assets/635bf211-ddb6-4815-a22b-eb8861ed7df1" width="600" height="350"/>
 <br/><br/>
+
+<img src="https://github.com/user-attachments/assets/f5131e0f-3b60-43d6-b1b4-c4342342cef3" width="600" height="350"/>
 <br/><br/>
